@@ -1,0 +1,22 @@
+[[Requisitos]]
+
+- debe ser mayor de edad
+
+- recargos extras dependiendo de:
+    - edad del asegurado
+    - si el asegurado está casado o no
+        - edad del conyugue
+    - cantidad de hijos
+
+[[recargos basados en rango de edad]] (aplica a cada individuo)
+
+[[asegurado o conyuge]]
+
+18-24 años, recargo del 10%
+25-49 años, recargo del 20%
+mayor a 50 años, recargo del 30%
+
+[[hijos]]
+
+recargo del 20% sin importar la edad
+
